@@ -1,5 +1,8 @@
 package ru.netology.javacore;
 
+import ru.netology.javacore.resources.TodoServer;
+import ru.netology.javacore.resources.Todos;
+
 import java.io.IOException;
 
 public class Main {
